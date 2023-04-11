@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_message">Được tạo bởi Nguyễn Trường Thịnh</string>
+    <string name="menu_about">Về ứng dụng</string>
+    <string name="name">Tên</string>
+    <string name="address">Địa chỉ</string>
+    <string name="phone">Điện thoại</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="notes">Ghi chú</string>
+    <string name="enter_notes">Nhập ghi chú</string>
+    <string name="bookmark_image">Đánh dấu ảnh</string>
+    <string name="action_save">Lưu</string>
+    <string name="open_drawer_nav">Mở thanh điều hướng bên trái</string>
+    <string name="close_drawer_nav">Đóng thanh điều hướng bên trái</string>
+    <string name="photo_option">Tùy chọn hình ảnh</string>
+    <string name="cancel">Hủy</string>
+    <string name="gallery">Thư viện ảnh</string>
+    <string name="camera">Máy ảnh</string>
+    <string name="camera_capture">Chụp ảnh</string>
+    <string name="gallery_pick">Chọn ảnh từ thư viện</string>
+    <string name="category">Danh mục</string>
+    <string name="action_delete">Xóa?</string>
+    <string name="option_ok">Đồng ý</string>
+</resources>
